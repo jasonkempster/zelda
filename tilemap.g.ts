@@ -1,378 +1,4 @@
 // Auto-generated code. Do not edit.
-namespace myImages {
-
-    helpers._registerFactory("image", function(name: string) {
-        switch(helpers.stringTrim(name)) {
-            case "myTiles.transparency16":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "myTiles.tile1":
-            case "cave":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "myTiles.tile2":
-            case "myTile":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "myTiles.tile3":
-            case "myTile0":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "myTiles.tile4":
-            case "myTile1":return img`
-9 9 9 9 f 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 f f f 9 9 9 9 9 9 
-9 9 f 9 9 9 9 f f f 9 9 9 f 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 f f 9 9 
-9 9 9 9 f 9 9 9 9 f f 9 f f 9 9 
-9 9 9 9 9 9 9 9 9 f f 9 9 f f f 
-9 9 9 9 9 9 9 9 9 9 9 9 9 f f f 
-9 9 f f 9 9 9 9 9 9 9 9 9 f f f 
-9 9 f f 9 9 f f 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 f f 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 f 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 f 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-`;
-            case "myTiles.tile5":
-            case "myTile2":return img`
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-`;
-            case "myTiles.tile7":
-            case "caveExit":return img`
-a d d d d d d d d d d d d d d a 
-d d d 1 1 d d d d d d d d b d d 
-d d d 1 1 d d d d d d d d d d d 
-d d d d d d d d d d d d d d d d 
-d d b d d d d d d b b d d d d d 
-d d d d d d d d d b b d d d d d 
-d d d d d d d d d d d d d d d d 
-d d d d d d d d d d d d d d d d 
-d d d d d b d d d d d d d d d d 
-d d d d d d d d d d d d d d d d 
-d d d d d d d d d d d d d d d d 
-1 1 d d d d d d d d d d d d d d 
-1 1 d d d d d d d d d d b d d d 
-d d d d d d 1 d d d d d d d d d 
-d d d d d d d d d d d d d d d d 
-a d d d d d d d d d d d d d b a 
-`;
-            case "myTiles.tile6":
-            case "caveEnter":return img`
-a 9 9 9 9 9 9 a 9 9 9 9 9 9 9 a 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-a 9 9 9 9 9 9 9 9 9 9 9 9 9 9 a 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-a 9 9 9 9 9 9 a 9 9 9 9 9 9 9 a 
-`;
-            case "myTiles.tile8":
-            case "pressureplate":return img`
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-9 f f f f f f f f f f f f f f 9 
-9 f 9 9 9 9 9 9 9 9 9 9 9 9 f 9 
-9 f 9 9 9 9 9 9 9 9 9 9 9 9 f 9 
-9 f 9 9 9 9 9 9 9 9 9 9 9 9 f 9 
-9 f 9 9 9 9 9 9 9 9 9 9 9 9 f 9 
-9 f 9 9 9 9 9 9 9 9 9 9 9 9 f 9 
-9 f 9 9 9 9 9 9 9 9 9 9 9 9 f 9 
-9 f 9 9 9 9 9 9 9 9 9 9 9 9 f 9 
-9 f 9 9 9 9 9 9 9 9 9 9 9 9 f 9 
-9 f 9 9 9 9 9 9 9 9 9 9 9 9 f 9 
-9 f 9 9 9 9 9 9 9 9 9 9 9 9 f 9 
-9 f 9 9 9 9 9 9 9 9 9 9 9 9 f 9 
-9 f 9 9 9 9 9 9 9 9 9 9 9 9 f 9 
-9 f f f f f f f f f f f f f f 9 
-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
-`;
-            case "myTiles.tile9":
-            case "myTile3":return img`
-. b b b b b b b b b b b b b b . 
-b e 4 4 4 4 4 4 4 4 4 4 4 4 4 b 
-b e 4 4 4 4 4 4 4 4 4 4 4 4 e b 
-b e e 4 4 4 4 4 4 4 4 4 4 e e b 
-b b b b b b b d d b b b b b b b 
-. b b b b b b c c b b b b b b . 
-b c c c c c b c c b c c c c c b 
-b c c c c c c b b c c c c c c b 
-b c c c c c c c c c c c c c c b 
-b c c c c c c c c c c c c c c b 
-b b b b b b b b b b b b b b b b 
-b e e e e e e e e e e e e e e b 
-b e e e e e e e e e e e e e e b 
-b c e e e e e e e e e e e e c b 
-b b b b b b b b b b b b b b b b 
-. b b . . . . . . . . . . b b . 
-`;
-            case "myTiles.tile10":
-            case "myTile4":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "myTiles.tile11":
-            case "cExit":return img`
-7 d d d d d d 7 d d d d d d d d 
-d d d 1 1 d d d d d d 7 d b d 7 
-d d d 1 1 d d d d d d d d d d d 
-d d d d 7 d d d d d d d d d d d 
-d d b d d d d 7 d b b d d d d d 
-d d d d d d d d d b b 7 d d d d 
-7 d d d d d d d d d d d d d d 7 
-d d d d d d 7 d d d d d d d d d 
-d d 7 d d b d d d d d d 7 d d d 
-d d d d d d d d d d 7 d d d d d 
-d d d d d d d 7 d d d d d d d d 
-1 1 d d 7 d d d d d d d d d 7 d 
-1 1 d d d d d d d d d d b d d d 
-d d d d d d 1 d 7 d d d d d d d 
-d d d d d d d d d d d d d d d d 
-7 d d d 7 d d d d d d 7 d d b 7 
-`;
-            case "myTiles.tile12":
-            case "tEnter":return img`
-3 7 3 3 7 7 7 7 7 7 7 7 7 7 7 7 
-7 7 7 7 7 7 7 7 7 7 7 7 7 1 7 7 
-7 7 7 1 1 7 7 7 7 7 7 7 1 3 1 7 
-7 7 3 1 1 3 7 7 7 3 7 7 6 1 6 7 
-7 1 1 3 3 1 1 7 7 3 7 7 7 7 7 7 
-7 d 1 3 3 1 d 7 7 3 7 7 7 7 7 7 
-7 3 3 1 1 3 3 7 7 7 7 3 7 7 7 7 
-7 7 3 d d 3 7 7 7 7 3 3 3 7 7 7 
-7 7 7 7 7 7 7 1 7 7 3 3 7 7 7 7 
-7 7 7 7 7 7 1 3 1 7 7 7 1 1 7 7 
-7 7 1 7 7 7 3 1 3 7 7 3 1 1 3 7 
-7 1 3 1 7 7 7 7 7 7 1 1 3 3 1 1 
-7 3 1 3 7 7 7 7 7 7 d 1 3 3 1 d 
-7 7 7 7 7 7 7 7 7 7 3 3 1 1 3 3 
-7 7 7 7 7 7 7 7 7 7 3 3 d d 3 7 
-7 7 3 7 7 7 7 7 7 7 7 7 7 7 7 7 
-`;
-            case "myTiles.tile13":
-            case "myTile5":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "myTiles.tile14":
-            case "myTile6":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "myTiles.tile15":
-            case "myTile7":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "myTiles.tile16":
-            case "myTile8":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "myTiles.tile17":
-            case "myTile9":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`;
-        }
-        return null;
-    })
-
-    helpers._registerFactory("animation", function(name: string) {
-        switch(helpers.stringTrim(name)) {
-
-        }
-        return null;
-    })
-
-    helpers._registerFactory("song", function(name: string) {
-        switch(helpers.stringTrim(name)) {
-
-        }
-        return null;
-    })
-
-    helpers._registerFactory("json", function(name: string) {
-        switch(helpers.stringTrim(name)) {
-
-        }
-        return null;
-    })
-
-}
-// Auto-generated code. Do not edit.
-
-// Auto-generated code. Do not edit.
 namespace myTiles {
     //% fixedInstance jres blockIdentity=images._tile
     export const transparency16 = image.ofBuffer(hex``);
@@ -680,101 +306,6 @@ namespace myTiles {
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `, [myTiles.transparency16,sprites.castle.tileGrass2,sprites.castle.tileGrass3], TileScale.Sixteen);
-            case "grassLands":
-            case "level2":return tiles.createTilemap(hex`1000100002020202020202020202020202020202020202020202020202020202020202020202020202010101010101010101010302020202020101010101010101010103020202020201010202020202020202020202020202010102020202020202020202020202020101010101010101010202020202020201010101010101010102020202020202020202020202020101020201010102020202020202020201010202020201020202020202020202010102020202010101010202020202020101020202020202020101010101010101010202020202020201010101010101010102020202020202010102020202020202020202020202020101020202020202020202`, img`
-2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
-2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
-2 2 2 2 2 . . . . . . . . . . . 
-2 2 2 2 2 . . . . . . . . . . . 
-2 2 2 2 2 . . 2 2 2 2 2 2 2 2 2 
-2 2 2 2 2 . . 2 2 2 2 2 2 2 2 2 
-2 2 2 2 2 . . . . . . . . . 2 2 
-2 2 2 2 2 . . . . . . . . . 2 2 
-2 2 2 2 2 2 2 2 2 2 2 2 . . 2 2 
-. . . 2 2 2 2 2 2 2 2 2 . . 2 2 
-2 2 . 2 2 2 2 2 2 2 2 2 . . 2 2 
-2 2 . . . . 2 2 2 2 2 2 . . 2 2 
-2 2 2 2 2 . . . . . . . . . 2 2 
-2 2 2 2 2 . . . . . . . . . 2 2 
-2 2 2 2 2 . . 2 2 2 2 2 2 2 2 2 
-2 2 2 2 2 . . 2 2 2 2 2 2 2 2 2 
-`, [myTiles.transparency16,sprites.castle.tilePath5,sprites.builtin.forestTiles0,myTiles.tile6], TileScale.Sixteen);
-            case "batRoom":
-            case "level3":return tiles.createTilemap(hex`100010000202020202020303020202020202020202020202020201010202020202020202020202020202010102020202020202020a0b0b0b0b0b0f0f0b0b0b0b0b0b0b0c090d0d0d0d0d0d0d0d0d0d0d10101005090d0d0d0d0d0d0d0d0d0d0d100e1005090d0d0d0d0d0d0d0d0d0d0d10101005090d0d0d0d0d0d0d0d0d0d0d0d0d0d05090d0d0d0d0d0d0d0d0d0d0d0d0d0d05090d0d0d0d0d0d0d0d0d0d0d0d0d0d05090d0d0d0d0d0d0d0d0d0d0d0d0d0d05090d0d0d0d0d0d0d0d0d0d0d0d0d0d05040d0d0d0d0d0d0d0d0d0d0d0d0d0d05040d0d0d0d0d0d0d0d0d0d0d0d0d0d05090d0d0d0d0d0d0d0d0d0d0d0d0d0d0508070707070707070707070707070706`, img`
-2 2 2 2 2 2 . . 2 2 2 2 2 2 2 2 
-2 2 2 2 2 2 . . 2 2 2 2 2 2 2 2 
-2 2 2 2 2 2 . . 2 2 2 2 2 2 2 2 
-2 2 2 2 2 2 . . 2 2 2 2 2 2 2 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . 2 . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-. . . . . . . . . . . . . . . 2 
-. . . . . . . . . . . . . . . 2 
-2 . . . . . . . . . . . . . . 2 
-2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
-`, [myTiles.transparency16,sprites.castle.tilePath5,sprites.builtin.forestTiles0,myTiles.tile7,myTiles.tile4,sprites.dungeon.greenOuterEast0,sprites.dungeon.greenOuterSouthWest,sprites.dungeon.greenOuterSouth1,sprites.dungeon.greenOuterSouthEast,sprites.dungeon.greenOuterWest1,sprites.dungeon.greenOuterNorthWest,sprites.dungeon.greenOuterNorth0,sprites.dungeon.greenOuterNorthEast,sprites.dungeon.floorDark0,sprites.dungeon.chestClosed,sprites.dungeon.floorLight2,myTiles.tile8], TileScale.Sixteen);
-            case "level4":
-            case "level4":return tiles.createTilemap(hex`1000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000`, img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`, [myTiles.transparency16], TileScale.Sixteen);
-            case "level5":
-            case "level5":return tiles.createTilemap(hex`1000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000`, img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`, [myTiles.transparency16], TileScale.Sixteen);
-            case "level6":
-            case "level6":return tiles.createTilemap(hex`1000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000`, img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`, [myTiles.transparency16], TileScale.Sixteen);
             case "level0":
             case "level8":return tiles.createTilemap(hex`1000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000000`, img`
 . . . . . . . . . . . . . . . . 
@@ -813,171 +344,333 @@ namespace myTiles {
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `, [myTiles.transparency16,myTiles.tile11,sprites.castle.tileGrass2,sprites.builtin.forestTiles0,sprites.dungeon.stairLadder,sprites.castle.tileGrass1,sprites.castle.tileGrass3,sprites.dungeon.collectibleBlueCrystal,sprites.castle.tilePath5,myTiles.tile12], TileScale.Sixteen);
+            case "grassLands":
+            case "level2":return tiles.createTilemap(hex`1000100002020202020202020202020202020202020202020202020202020202020202020202020202010101010101010101010302020202020101010101010101010103020202020201010202020202020202020202020202010102020202020202020202020202020101010101010101010202020202020201010101010101010102020202020202020202020202020101020201010102020202020202020201010202020201020202020202020202010102020202010101010202020202020101020202020202020101010101010101010202020202020201010101010101010102020202020202010102020202020202020202020202020101020202020202020202`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 . . . . . . . . . . . 
+2 2 2 2 2 . . . . . . . . . . . 
+2 2 2 2 2 . . 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 . . 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 . . . . . . . . . 2 2 
+2 2 2 2 2 . . . . . . . . . 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 . . 2 2 
+. . . 2 2 2 2 2 2 2 2 2 . . 2 2 
+2 2 . 2 2 2 2 2 2 2 2 2 . . 2 2 
+2 2 . . . . 2 2 2 2 2 2 . . 2 2 
+2 2 2 2 2 . . . . . . . . . 2 2 
+2 2 2 2 2 . . . . . . . . . 2 2 
+2 2 2 2 2 . . 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 . . 2 2 2 2 2 2 2 2 2 
+`, [myTiles.transparency16,sprites.castle.tilePath5,sprites.builtin.forestTiles0,myTiles.tile6], TileScale.Sixteen);
+            case "batRoom":
+            case "level3":return tiles.createTilemap(hex`100010000202020202020303020202020202020202020202020201010202020202020202020202020202010102020202020202020a0b0b0b0b0b0f0f0b0b0b0b0b0b0b0c090d0d0d0d0d0d0d0d0d0d0d10101005090d0d0d0d0d0d0d0d0d0d0d100e1005090d0d0d0d0d0d0d0d0d0d0d10101005090d0d0d0d0d0d0d0d0d0d0d0d0d0d05090d0d0d0d0d0d0d0d0d0d0d0d0d0d05090d0d0d0d0d0d0d0d0d0d0d0d0d0d05090d0d0d0d0d0d0d0d0d0d0d0d0d0d05090d0d0d0d0d0d0d0d0d0d0d0d0d0d05040d0d0d0d0d0d0d0d0d0d0d0d0d0d05040d0d0d0d0d0d0d0d0d0d0d0d0d0d05090d0d0d0d0d0d0d0d0d0d0d0d0d0d0508070707070707070707070707070706`, img`
+2 2 2 2 2 2 . . 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 . . 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 . . 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 . . 2 2 2 2 2 2 2 2 
+2 . . . . . . . . . . . . . . 2 
+2 . . . . . . . . . . . . 2 . 2 
+2 . . . . . . . . . . . . . . 2 
+2 . . . . . . . . . . . . . . 2 
+2 . . . . . . . . . . . . . . 2 
+2 . . . . . . . . . . . . . . 2 
+2 . . . . . . . . . . . . . . 2 
+2 . . . . . . . . . . . . . . 2 
+. . . . . . . . . . . . . . . 2 
+. . . . . . . . . . . . . . . 2 
+2 . . . . . . . . . . . . . . 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, [myTiles.transparency16,sprites.castle.tilePath5,sprites.builtin.forestTiles0,myTiles.tile7,myTiles.tile4,sprites.dungeon.greenOuterEast0,sprites.dungeon.greenOuterSouthWest,sprites.dungeon.greenOuterSouth1,sprites.dungeon.greenOuterSouthEast,sprites.dungeon.greenOuterWest1,sprites.dungeon.greenOuterNorthWest,sprites.dungeon.greenOuterNorth0,sprites.dungeon.greenOuterNorthEast,sprites.dungeon.floorDark0,sprites.dungeon.chestClosed,sprites.dungeon.floorLight2,myTiles.tile8], TileScale.Sixteen);
         }
         return null;
     })
 
     helpers._registerFactory("tile", function(name: string) {
         switch(helpers.stringTrim(name)) {
-            case "transparency16":return myTiles.transparency16;
+            case "transparency16":return transparency16;
             case "cave":
-            case "tile1":return myTiles.tile1;
+            case "tile1":return tile1;
             case "myTile":
-            case "tile2":return myTiles.tile2;
+            case "tile2":return tile2;
             case "myTile0":
-            case "tile3":return myTiles.tile3;
+            case "tile3":return tile3;
             case "myTile1":
-            case "tile4":return myTiles.tile4;
+            case "tile4":return tile4;
             case "myTile2":
-            case "tile5":return myTiles.tile5;
+            case "tile5":return tile5;
             case "caveExit":
-            case "tile7":return myTiles.tile7;
+            case "tile7":return tile7;
             case "caveEnter":
-            case "tile6":return myTiles.tile6;
+            case "tile6":return tile6;
             case "pressureplate":
-            case "tile8":return myTiles.tile8;
+            case "tile8":return tile8;
             case "myTile3":
-            case "tile9":return myTiles.tile9;
+            case "tile9":return tile9;
             case "myTile4":
-            case "tile10":return myTiles.tile10;
+            case "tile10":return tile10;
             case "cExit":
-            case "tile11":return myTiles.tile11;
+            case "tile11":return tile11;
             case "tEnter":
-            case "tile12":return myTiles.tile12;
+            case "tile12":return tile12;
             case "myTile5":
-            case "tile13":return myTiles.tile13;
+            case "tile13":return tile13;
             case "myTile6":
-            case "tile14":return myTiles.tile14;
+            case "tile14":return tile14;
             case "myTile7":
-            case "tile15":return myTiles.tile15;
+            case "tile15":return tile15;
             case "myTile8":
-            case "tile16":return myTiles.tile16;
+            case "tile16":return tile16;
             case "myTile9":
-            case "tile17":return myTiles.tile17;
-            case "pf1":return myTiles.pf1;
-            case "pf2":return myTiles.pf2;
-            case "pf3":return myTiles.pf3;
-            case "pf4":return myTiles.pf4;
-            case "pf5":return myTiles.pf5;
-            case "pf6":return myTiles.pf6;
-            case "pf7":return myTiles.pf7;
-            case "pf8":return myTiles.pf8;
-            case "pf9":return myTiles.pf9;
-            case "pf10":return myTiles.pf10;
-            case "pf11":return myTiles.pf11;
-            case "pf12":return myTiles.pf12;
-            case "pf13":return myTiles.pf13;
-            case "pf14":return myTiles.pf14;
-            case "pf15":return myTiles.pf15;
-            case "pf16":return myTiles.pf16;
-            case "pf17":return myTiles.pf17;
-            case "pf18":return myTiles.pf18;
-            case "pf19":return myTiles.pf19;
-            case "pf20":return myTiles.pf20;
-            case "pf21":return myTiles.pf21;
-            case "pf22":return myTiles.pf22;
-            case "pf23":return myTiles.pf23;
-            case "pf24":return myTiles.pf24;
-            case "pf25":return myTiles.pf25;
-            case "pf26":return myTiles.pf26;
-            case "pf27":return myTiles.pf27;
-            case "pf28":return myTiles.pf28;
-            case "pf29":return myTiles.pf29;
-            case "pf30":return myTiles.pf30;
-            case "pf31":return myTiles.pf31;
-            case "pf32":return myTiles.pf32;
-            case "pf33":return myTiles.pf33;
-            case "pf34":return myTiles.pf34;
-            case "pf35":return myTiles.pf35;
-            case "pf36":return myTiles.pf36;
-            case "pf37":return myTiles.pf37;
-            case "pf38":return myTiles.pf38;
-            case "pf39":return myTiles.pf39;
-            case "pf40":return myTiles.pf40;
-            case "pf41":return myTiles.pf41;
-            case "pf42":return myTiles.pf42;
-            case "pf43":return myTiles.pf43;
-            case "pf44":return myTiles.pf44;
-            case "pf45":return myTiles.pf45;
-            case "pf46":return myTiles.pf46;
-            case "pf47":return myTiles.pf47;
-            case "pf48":return myTiles.pf48;
-            case "pf49":return myTiles.pf49;
-            case "pf50":return myTiles.pf50;
-            case "pf51":return myTiles.pf51;
-            case "pf52":return myTiles.pf52;
-            case "pf53":return myTiles.pf53;
-            case "pf54":return myTiles.pf54;
-            case "pf55":return myTiles.pf55;
-            case "pf56":return myTiles.pf56;
-            case "pf57":return myTiles.pf57;
-            case "pf58":return myTiles.pf58;
-            case "pf59":return myTiles.pf59;
-            case "pf60":return myTiles.pf60;
-            case "pf61":return myTiles.pf61;
-            case "pf62":return myTiles.pf62;
-            case "pf63":return myTiles.pf63;
-            case "pf64":return myTiles.pf64;
-            case "pf65":return myTiles.pf65;
-            case "pf66":return myTiles.pf66;
-            case "pf67":return myTiles.pf67;
-            case "pf68":return myTiles.pf68;
-            case "pf69":return myTiles.pf69;
-            case "pf70":return myTiles.pf70;
-            case "pf71":return myTiles.pf71;
-            case "pf72":return myTiles.pf72;
-            case "pf73":return myTiles.pf73;
-            case "pf74":return myTiles.pf74;
-            case "pf75":return myTiles.pf75;
-            case "pf76":return myTiles.pf76;
-            case "pf77":return myTiles.pf77;
-            case "pf78":return myTiles.pf78;
-            case "pf79":return myTiles.pf79;
-            case "pf80":return myTiles.pf80;
-            case "pf81":return myTiles.pf81;
-            case "pf82":return myTiles.pf82;
-            case "pf83":return myTiles.pf83;
-            case "pf84":return myTiles.pf84;
-            case "pf85":return myTiles.pf85;
-            case "pf86":return myTiles.pf86;
-            case "pf87":return myTiles.pf87;
-            case "pf88":return myTiles.pf88;
-            case "pf89":return myTiles.pf89;
-            case "pf90":return myTiles.pf90;
-            case "pf91":return myTiles.pf91;
-            case "pf92":return myTiles.pf92;
-            case "pf93":return myTiles.pf93;
-            case "pf94":return myTiles.pf94;
-            case "pf95":return myTiles.pf95;
-            case "pf96":return myTiles.pf96;
-            case "pf97":return myTiles.pf97;
-            case "pf98":return myTiles.pf98;
-            case "pf99":return myTiles.pf99;
-            case "pf100":return myTiles.pf100;
-            case "pf101":return myTiles.pf101;
-            case "pf102":return myTiles.pf102;
-            case "pf103":return myTiles.pf103;
-            case "pf104":return myTiles.pf104;
-            case "pf105":return myTiles.pf105;
-            case "pf106":return myTiles.pf106;
-            case "pf107":return myTiles.pf107;
-            case "pf108":return myTiles.pf108;
-            case "pf109":return myTiles.pf109;
-            case "pf110":return myTiles.pf110;
-            case "pf111":return myTiles.pf111;
-            case "pf112":return myTiles.pf112;
-            case "pf113":return myTiles.pf113;
-            case "pf114":return myTiles.pf114;
-            case "pf115":return myTiles.pf115;
-            case "pf116":return myTiles.pf116;
-            case "pf117":return myTiles.pf117;
-            case "pf118":return myTiles.pf118;
-            case "pf119":return myTiles.pf119;
-            case "pf120":return myTiles.pf120;
-            case "pf121":return myTiles.pf121;
-            case "pf122":return myTiles.pf122;
-            case "pf123":return myTiles.pf123;
-            case "pf124":return myTiles.pf124;
+            case "tile17":return tile17;
+            case "world r0c6":
+            case "pf1":return pf1;
+            case "world r0c17":
+            case "pf2":return pf2;
+            case "world r0c18":
+            case "pf3":return pf3;
+            case "world r0c19":
+            case "pf4":return pf4;
+            case "world r0c20":
+            case "pf5":return pf5;
+            case "world r0c21":
+            case "pf6":return pf6;
+            case "world r0c22":
+            case "pf7":return pf7;
+            case "world r0c23":
+            case "pf8":return pf8;
+            case "world r0c24":
+            case "pf9":return pf9;
+            case "world r0c25":
+            case "pf10":return pf10;
+            case "world r0c26":
+            case "pf11":return pf11;
+            case "world r0c27":
+            case "pf12":return pf12;
+            case "world r0c28":
+            case "pf13":return pf13;
+            case "world r0c29":
+            case "pf14":return pf14;
+            case "world r0c30":
+            case "pf15":return pf15;
+            case "world r0c31":
+            case "pf16":return pf16;
+            case "world r1c6":
+            case "pf17":return pf17;
+            case "world r1c17":
+            case "pf18":return pf18;
+            case "world r1c18":
+            case "pf19":return pf19;
+            case "world r1c19":
+            case "pf20":return pf20;
+            case "world r1c20":
+            case "pf21":return pf21;
+            case "world r1c21":
+            case "pf22":return pf22;
+            case "world r1c22":
+            case "pf23":return pf23;
+            case "world r1c23":
+            case "pf24":return pf24;
+            case "world r1c24":
+            case "pf25":return pf25;
+            case "world r1c25":
+            case "pf26":return pf26;
+            case "world r1c26":
+            case "pf27":return pf27;
+            case "world r1c27":
+            case "pf28":return pf28;
+            case "world r1c28":
+            case "pf29":return pf29;
+            case "world r1c29":
+            case "pf30":return pf30;
+            case "world r1c30":
+            case "pf31":return pf31;
+            case "world r1c31":
+            case "pf32":return pf32;
+            case "world r2c4":
+            case "pf33":return pf33;
+            case "world r2c5":
+            case "pf34":return pf34;
+            case "world r2c6":
+            case "pf35":return pf35;
+            case "world r2c17":
+            case "pf36":return pf36;
+            case "world r2c18":
+            case "pf37":return pf37;
+            case "world r2c19":
+            case "pf38":return pf38;
+            case "world r2c20":
+            case "pf39":return pf39;
+            case "world r2c21":
+            case "pf40":return pf40;
+            case "world r2c22":
+            case "pf41":return pf41;
+            case "world r2c23":
+            case "pf42":return pf42;
+            case "world r2c24":
+            case "pf43":return pf43;
+            case "world r2c25":
+            case "pf44":return pf44;
+            case "world r2c26":
+            case "pf45":return pf45;
+            case "world r2c27":
+            case "pf46":return pf46;
+            case "world r3c17":
+            case "pf47":return pf47;
+            case "world r3c18":
+            case "pf48":return pf48;
+            case "world r3c19":
+            case "pf49":return pf49;
+            case "world r3c20":
+            case "pf50":return pf50;
+            case "world r3c21":
+            case "pf51":return pf51;
+            case "world r3c22":
+            case "pf52":return pf52;
+            case "world r3c23":
+            case "pf53":return pf53;
+            case "world r3c24":
+            case "pf54":return pf54;
+            case "world r3c25":
+            case "pf55":return pf55;
+            case "world r3c26":
+            case "pf56":return pf56;
+            case "world r3c27":
+            case "pf57":return pf57;
+            case "world r3c28":
+            case "pf58":return pf58;
+            case "world r3c29":
+            case "pf59":return pf59;
+            case "world r3c30":
+            case "pf60":return pf60;
+            case "world r3c31":
+            case "pf61":return pf61;
+            case "world r3c32":
+            case "pf62":return pf62;
+            case "world r3c33":
+            case "pf63":return pf63;
+            case "world r4c1":
+            case "pf64":return pf64;
+            case "world r4c12":
+            case "pf65":return pf65;
+            case "world r4c13":
+            case "pf66":return pf66;
+            case "world r4c14":
+            case "pf67":return pf67;
+            case "world r4c15":
+            case "pf68":return pf68;
+            case "world r4c16":
+            case "pf69":return pf69;
+            case "world r4c17":
+            case "pf70":return pf70;
+            case "world r4c18":
+            case "pf71":return pf71;
+            case "world r4c19":
+            case "pf72":return pf72;
+            case "world r4c20":
+            case "pf73":return pf73;
+            case "world r4c21":
+            case "pf74":return pf74;
+            case "world r5c8":
+            case "pf75":return pf75;
+            case "world r5c12":
+            case "pf76":return pf76;
+            case "world r5c13":
+            case "pf77":return pf77;
+            case "world r5c14":
+            case "pf78":return pf78;
+            case "world r5c15":
+            case "pf79":return pf79;
+            case "world r5c16":
+            case "pf80":return pf80;
+            case "world r5c17":
+            case "pf81":return pf81;
+            case "world r5c18":
+            case "pf82":return pf82;
+            case "world r5c19":
+            case "pf83":return pf83;
+            case "world r5c20":
+            case "pf84":return pf84;
+            case "world r5c21":
+            case "pf85":return pf85;
+            case "world r6c12":
+            case "pf86":return pf86;
+            case "world r6c13":
+            case "pf87":return pf87;
+            case "world r6c14":
+            case "pf88":return pf88;
+            case "world r6c15":
+            case "pf89":return pf89;
+            case "world r6c16":
+            case "pf90":return pf90;
+            case "world r6c17":
+            case "pf91":return pf91;
+            case "world r6c18":
+            case "pf92":return pf92;
+            case "world r6c19":
+            case "pf93":return pf93;
+            case "world r6c20":
+            case "pf94":return pf94;
+            case "world r6c21":
+            case "pf95":return pf95;
+            case "world r6c22":
+            case "pf96":return pf96;
+            case "world r6c23":
+            case "pf97":return pf97;
+            case "world r7c6":
+            case "pf98":return pf98;
+            case "world r7c7":
+            case "pf99":return pf99;
+            case "world r7c8":
+            case "pf100":return pf100;
+            case "world r7c9":
+            case "pf101":return pf101;
+            case "world r7c10":
+            case "pf102":return pf102;
+            case "world r7c11":
+            case "pf103":return pf103;
+            case "world r8c6":
+            case "pf104":return pf104;
+            case "world r8c7":
+            case "pf105":return pf105;
+            case "world r8c8":
+            case "pf106":return pf106;
+            case "world r8c9":
+            case "pf107":return pf107;
+            case "world r8c10":
+            case "pf108":return pf108;
+            case "world r8c11":
+            case "pf109":return pf109;
+            case "world r9c7":
+            case "pf110":return pf110;
+            case "world r9c8":
+            case "pf111":return pf111;
+            case "world r9c9":
+            case "pf112":return pf112;
+            case "world r9c10":
+            case "pf113":return pf113;
+            case "world r9c11":
+            case "pf114":return pf114;
+            case "world r9c12":
+            case "pf115":return pf115;
+            case "world r9c13":
+            case "pf116":return pf116;
+            case "world r10c8":
+            case "pf117":return pf117;
+            case "world r10c9":
+            case "pf118":return pf118;
+            case "world r10c10":
+            case "pf119":return pf119;
+            case "world r10c11":
+            case "pf120":return pf120;
+            case "world r10c12":
+            case "pf121":return pf121;
+            case "world r10c13":
+            case "pf122":return pf122;
+            case "world r10c14":
+            case "pf123":return pf123;
+            case "world r10c15":
+            case "pf124":return pf124;
         }
         return null;
     })
