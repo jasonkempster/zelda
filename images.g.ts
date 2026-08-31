@@ -194,3 +194,9 @@ cc66666666664c66e4e44e44e44feeee66c46666666666cc
 
 }
 // Auto-generated code. Do not edit.
+
+// Auto-generated code. Do not edit.
+namespace myTiles {
+
+}
+// Auto-generated code. Do not edit.
