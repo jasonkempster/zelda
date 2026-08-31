@@ -58,6 +58,32 @@ controller.menu.onEvent(ControllerButtonEvent.Pressed, function () {
         )
         myMenu.setFlag(SpriteFlag.RelativeToCamera, true)
         menuOpen = true
+        miniMenu.onButtonPressed(myMenu, miniMenu.Button.A, function (selection, selectedIndex) {
+            if (selection == "save") {
+                blockSettings.writeString("area", area)
+                blockSettings.writeNumber("mySpriteX", mySprite.x)
+                blockSettings.writeNumber("mySpriteY", mySprite.y)
+                if (gotSword) {
+                    blockSettings.writeString("gotSword", "true")
+                } else {
+                    blockSettings.writeString("gotSword", "false")
+                }
+            }
+            if (selection == "load") {
+                if (blockSettings.readString("area") == "grassLands") {
+                    tiles.setCurrentTilemap(tilemap`grassLands`)
+                }
+                if (blockSettings.readString("area") == "batRoom") {
+                    tiles.setCurrentTilemap(tilemap`batRoom`)
+                }
+                mySprite.setPosition(blockSettings.readNumber("mySpriteX"), blockSettings.readNumber("mySpriteY"))
+                if (blockSettings.readString("gotSword") == "true") {
+                    gotSword = true
+                } else {
+                    gotSword = false
+                }
+            }
+        })
     } else {
         miniMenu.close(myMenu)
         controller.moveSprite(mySprite, 100, 100)
