@@ -5,7 +5,8 @@
         "device": "*",
         "carnival": "github:microsoft/arcade-carnival#v0.0.7",
         "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
-        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.1.0"
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.1.0",
+        "pixel-fantasy-tiles": "github:jasonkempster/pixel-fantasy-tiles#v0.0.1"
     },
     "files": [
         "main.blocks",
@@ -15,9 +16,7 @@
         "tilemap.g.jres",
         "tilemap.g.ts",
         "images.g.jres",
-        "images.g.ts",
-        "pixelFantasy.g.jres",
-        "pixelFantasy.g.ts"
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
